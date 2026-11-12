@@ -3,3 +3,4 @@
 2. It's amazing how much I can create
 3. This is the resolved conflict line
 4. This line is for testing git fetch
+5. The fifth-line to test fetching commit
