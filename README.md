@@ -1,5 +1,5 @@
 # Lessons-Log
-- A Simple notebook to shows a description of README file
+A simple notebook for describing the project and recording daily thoughts
 ## Usage
 - Write simple daily thoughts
 - It's worth noting down these lines as part of a journal like
