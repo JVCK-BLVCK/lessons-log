@@ -4,3 +4,4 @@
 3. This is the resolved conflict line
 4. This line is for testing git fetch
 5. The fifth-line to test fetching commit
+6. This is testing a pushing conflict
