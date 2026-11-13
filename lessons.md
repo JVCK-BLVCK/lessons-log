@@ -4,4 +4,5 @@
 3. This is the resolved conflict line
 4. This line is for testing git fetch
 5. The fifth-line to test fetching commit
-6. A copy newline in a cloned lessons.log
+6. This now is a Resolved Line of the push conflict between
+original repo and cloned repo.
