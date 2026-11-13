@@ -6,5 +6,4 @@
 - Always remember to keep them short and tidy
 ```sh
 git log --oneline
-Get-Content
 ```
