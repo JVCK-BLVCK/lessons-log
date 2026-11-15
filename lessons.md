@@ -7,3 +7,4 @@
 6. This now is a Resolved Line of the push conflict between
 original repo and cloned repo.
 7. A note to test branch rulesets
+8. Another basic note that tests no bypassing of rules by admin
